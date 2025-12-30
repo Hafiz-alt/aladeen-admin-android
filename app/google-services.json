@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487357566044",
+    "project_id": "aladeen-admin",
+    "storage_bucket": "aladeen-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487357566044:android:a79a3cd2a2bbc775ed6a99",
+        "android_client_info": {
+          "package_name": "com.example.aladeenadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nckqYcC7CshKDjpMYOtdnYLsOAQqfeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
